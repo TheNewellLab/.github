@@ -1,5 +1,5 @@
 # .github
-It's the Newell Lab Github! Welcome to great scenic views out the window.
+It's the Newell Lab Github! Welcome to scenic views out the window.
 
 
 Hello I don't know how to organize the repositories. Or 'repos' as the programmers would say. 
